@@ -1,0 +1,19 @@
+.home {
+  display: flex;
+
+  .homeContainer {
+    flex: 6;
+
+
+    .charts {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100%; // Ensure the div takes up the full height
+    }
+
+    
+
+    
+  }
+}
